@@ -1,0 +1,6 @@
+placeholder images:
+  http://placekitten.com/
+  http://placehold.it/
+
+Fonts:
+  http://www.google.com/fonts#QuickUsePlace:quickUse
