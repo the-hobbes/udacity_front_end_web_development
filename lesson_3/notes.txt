@@ -1,0 +1,12 @@
+Frameworks:
+  bootstrap, http://getbootstrap.com/ 
+  yaml4, http://www.yaml.de/ 
+  foundation, http://foundation.zurb.com/ 
+  960 Grid, http://960.gs/ 
+  Suzy: http://susy.oddbird.net/ 
+  Frameless: http://framelessgrid.com/
+
+Customize bootstrap download:
+  getbootstrap.com/customize
+  choose:
+    typography, grid system, and modals
