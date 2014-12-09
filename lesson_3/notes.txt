@@ -10,3 +10,5 @@ Customize bootstrap download:
   getbootstrap.com/customize
   choose:
     typography, grid system, and modals
+
+Modals are popup lightboxes that bootstrap provides.
